@@ -7,7 +7,7 @@ comments.forEach(comment =>{
             comment.children[1].classList.remove("showMe")
         })
         comment.children[1].classList.add("showMe")
-    },true);
+    });
 
 })
 
